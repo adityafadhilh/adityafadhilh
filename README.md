@@ -77,7 +77,7 @@ Capstone project from **Bangkit Academy 2023**.
 ---
 
 ### 🎵 ASDIC — Song Finder Web App
-Group final project for Internet Technology course.
+Group final project for Internet Technology course (2023).
 
 **Tech:** React, Express.js, iTunes API  
 **What I did:**
@@ -90,7 +90,7 @@ Group final project for Internet Technology course.
 ---
 
 ### 🏨 Room Reservation Website
-Group final project for Web Programming course.
+Group final project for Web Programming course (2021).
 
 **Tech:** PHP, CodeIgniter, MySQL  
 **What I did:**
@@ -103,7 +103,7 @@ Group final project for Web Programming course.
 ---
 
 ### 🧠 Parking Payment System (Algorithm & Data Structure)
-Console-based parking payment system flow built using C.
+Console-based parking payment system flow built using C (2021).
 
 - Implemented parking fee calculation based on duration
 - Used fundamental data structures and algorithms
