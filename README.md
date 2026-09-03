@@ -17,7 +17,6 @@ Mobile developer with one year of hands-on React Native experience building and 
 
 - 🔭 Currently building portfolio projects and exploring freelance mobile/web work
 - 🌱 Sharpening my React Native skills — navigation, state management, and native module integration
-- 💬 Ask me about React Native, NestJS, or mobile + ML integration
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/aditya-fadhil-a773a6255)
 
 ---
