@@ -1,136 +1,94 @@
+<div align="center">
 
-<!--
-**adityafadhilh/adityafadhilh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aditya Fadhil Herindro 👋
 
-Here are some ideas to get you started:
+### React Native / Mobile Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-fadhil-a773a6255)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-aditya-fadhil.vercel.app)
 
-# I'm Aditya Fadhil
-
-Computer Science graduate with one year of industry experience as an IT Developer. Proficient in **Javascript**, **TypeScript**, **React**, **React
-Native**, and NestJS, with hands-on experience in full-stack application development, API integration, state management, and mobile app
-deployment. Strong understanding of software engineering principles, problem-solving, and agile collaboration. Highly motivated to
-contribute to scalable applications and continuous product improvement.
-
-## 🧑‍💻 Quick Overview
-- 💼 IT Developer Intern with hands-on industry experience
-- 📱 Built and maintained cross-platform mobile apps (iOS & Android)
-- 🔗 Strong in API integration, state management, and debugging
-- 🧠 Solid foundation in software engineering & problem-solving
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## About Me
 
-**Frontend & Mobile**
-- React
-- React Native
-- JavaScript, TypeScript
-- Tailwind CSS, CSS
+Mobile developer with one year of hands-on React Native experience building and shipping cross-platform iOS/Android applications. Comfortable across the stack from RN UI and state management to NestJS/PostgreSQL backends and REST API integration. I delivered a machine-learning-integrated mobile app (**BatikIn**) as part of Google's Bangkit Academy, and I'm currently looking to bring that end-to-end mobile experience to a React Native team.
+
+- 🔭 Currently building portfolio projects and exploring freelance mobile/web work
+- 🌱 Sharpening my React Native skills — navigation, state management, and native module integration
+- 💬 Ask me about React Native, NestJS, or mobile + ML integration
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/aditya-fadhil-a773a6255)
+
+---
+
+## 🛠️ Tech Stack
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-6E56CF?style=flat)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Backend**
-- NestJS
-- REST API
-- PostgreSQL, SQLite
 
-**Tools & Others**
-- Git & GitHub
-- Postman
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
----
+**Tools**
 
-## 💼 Professional Experience
-
-### 🏢 PT Vanz Inovatif Teknologi (Qbit) — IT Developer Intern  
-*Jan 2024 – Jan 2025 | Jakarta, Indonesia*
-
-**Responsibilities & Contributions:**
-- Debugged and fixed production bugs to ensure application stability and performance
-- Developed cross-platform mobile applications using **React Native**
-- Integrated frontend applications with backend REST APIs
-- Assisted in designing and implementing backend services using **NestJS & PostgreSQL**
-- Collaborated closely with UI/UX designers, QA, frontend, and backend teams
-
-> Most of the projects I worked on during this internship are private and owned by the company.
----
-
-# 🚀 Featured Projects
-
-### 📱 BatikIn — Batik Motif Recognition App
-Capstone project from **Bangkit Academy 2023**.
-
-**Tech:** Kotlin, Android, Image Recognition, Mobile Development  
-**What I did:**
-- Built a mobile app to scan and identify batik motifs
-- Integrated machine learning model output into a user-friendly mobile interface
-- Collaborated in a cross-functional team (Mobile Dev & Machine Learning)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-### 🎵 ASDIC — Song Finder Web App
-Group final project for Internet Technology course (2023).
+## 💼 Experience
 
-**Tech:** React, Express.js, iTunes API  
-**What I did:**
-- Developed frontend using React
-- Integrated data from iTunes API via custom Express middleware
-- Implemented search and data display features
-
-[Repo](https://github.com/adityafadhilh/PTI_Project)
+**IT Developer Intern — PT Vanz Inovatif Teknologi (qbit)** · *Jan 2024 – Jan 2025*
+- Built and maintained features for a cross-platform React Native app (iOS/Android), covering UI implementation, navigation, and API-driven data screens.
+- Integrated REST APIs into the React Native front end and handled app-side state management.
+- Designed and implemented backend REST API endpoints in NestJS with PostgreSQL to support core application data flows.
+- Debugged and resolved functional and performance issues across the mobile and backend layers.
+- Collaborated in an agile, cross-functional team with UI/UX designers, QA, and backend/frontend engineers.
 
 ---
 
-### 🏨 Room Reservation Website
-Group final project for Web Programming course (2021).
+## 🚀 Featured Project
 
-**Tech:** PHP, CodeIgniter, MySQL  
-**What I did:**
-- Implemented authentication and booking workflows
-- Designed and managed relational database
-- Worked collaboratively in a team-based environment
+### [BatikIn](#) — Capstone Project, Bangkit Academy (Team C23-PS257)
+*Mobile Development Cohort, led by Google, GoTo, and Traveloka · Feb 2023 – Jul 2023*
 
-[Repo](https://github.com/adityafadhilh/UAS-PEMWEB)
+An Android application that identifies Batik motifs from a photo, bridging a machine-learning image-recognition model with a user-facing mobile UI.
 
----
-
-### 🧠 Parking Payment System (Algorithm & Data Structure)
-Console-based parking payment system flow built using C (2021).
-
-- Implemented parking fee calculation based on duration
-- Used fundamental data structures and algorithms
-- Strengthened memory management and logic structuring
-
-[Repo](https://github.com/adityafadhilh/UAS_DataStructure)
+- 📷 Camera capture and image handling on the client
+- 🤖 ML inference integrated into the app's UI to show identified motif details
+- 👥 Built in a cross-functional team spanning Machine Learning and Mobile Development
 
 ---
 
 ## 🎓 Education
 
-**Universitas Multimedia Nusantara**  
-Bachelor of Informatics — **GPA 3.65 / 4.00**  
+**Universitas Multimedia Nusantara** — Bachelor of Informatics, GPA 3.65/4.00
 *Jul 2020 – Nov 2025*
+- Undergraduate thesis: LSTM-based stock price prediction for the LQ45 Energy Sector
+- Selected for the Mobile Development Cohort, Bangkit Academy 2023 (Google, GoTo, Traveloka)
 
-- Undergraduate thesis: **LSTM-based stock price prediction for LQ45 Energy Sector**
-- Completed multiple final projects in web, mobile, and algorithm courses
-
----
-
-## 📚 Programs & Certifications
-- 🎓 **Bangkit Academy 2023** — Mobile Development Cohort  
-  Led by Google, GoTo, and Traveloka
-- 📜 **IT Specialist Certificate – JavaScript** (Pearson, 2025)
+**Certifications:** IT Specialist Certificate for JavaScript — Pearson (2025)
 
 ---
 
-## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/aditya-fadhil-a773a6255
-- 💻 GitHub: https://github.com/adityafadhilh
+<div align="center">
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/aditya-fadhil-a773a6255) · [Portfolio](https://portfolio-aditya-fadhil.vercel.app)
+
+</div>
